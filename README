@@ -1,0 +1,4 @@
+texioのオシロスコープから波形を読み込んだり(texio_read_km.py)、
+波形を積分して電荷のグラフを作ったり(report.ipynb)、
+電荷のグラフからノイズを引いたり(report2.ipynb)、
+グラフをガウシアンフィットしたり(gaussian.cpp)、
