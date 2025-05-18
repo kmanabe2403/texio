@@ -1,4 +1,4 @@
-#ターミナルでいい?なぜかrootだとだめ
+#ターミナルでいい
 #python texio_read.py dirname
 #TEXIO製のオシロスコープとシリアル通信（USB経由）で接続し、波形データを取得・保存・リアルタイムプロット
 import serial
